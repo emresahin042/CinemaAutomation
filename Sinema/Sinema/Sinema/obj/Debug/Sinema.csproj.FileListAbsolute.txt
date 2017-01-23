@@ -1,0 +1,26 @@
+c:\users\mert.akgun\documents\visual studio 2015\Projects\Sinema\Sinema\bin\Debug\Sinema.exe.config
+C:\Users\mert.akgun\OneDrive\Sinema\Sinema\bin\Debug\Sinema.exe.config
+C:\Users\mert.akgun\OneDrive\Sinema\Sinema\bin\Debug\Sinema.exe
+C:\Users\mert.akgun\OneDrive\Sinema\Sinema\bin\Debug\Sinema.pdb
+C:\Users\mert.akgun\OneDrive\Sinema\Sinema\obj\Debug\Sinema.Properties.Resources.resources
+C:\Users\mert.akgun\OneDrive\Sinema\Sinema\obj\Debug\Sinema.csproj.GenerateResource.Cache
+C:\Users\mert.akgun\OneDrive\Sinema\Sinema\obj\Debug\Sinema.exe
+C:\Users\mert.akgun\OneDrive\Sinema\Sinema\obj\Debug\Sinema.pdb
+C:\Users\mert.akgun\OneDrive\Sinema\Sinema\obj\Debug\Sinema.AnaMenu.resources
+C:\Users\mert.akgun\OneDrive\Sinema\Sinema\obj\Debug\Sinema.csprojResolveAssemblyReference.cache
+C:\Users\mert.akgun\OneDrive\Sinema\Sinema\obj\Debug\Sinema.Guncelleme.resources
+C:\Users\mert.akgun\OneDrive\Sinema\Sinema\obj\Debug\Sinema.Satıs.resources
+C:\Users\mert.akgun\OneDrive\Sinema\Sinema\obj\Debug\Sinema.Login.resources
+C:\Users\omerb\Downloads\Sinema 5\Sinema\Sinema\bin\Debug\Sinema.exe.config
+C:\Users\omerb\Downloads\Sinema 5\Sinema\Sinema\obj\Debug\Sinema.exe
+C:\Users\omerb\Downloads\Sinema 5\Sinema\Sinema\obj\Debug\Sinema.pdb
+C:\Users\omerb\Downloads\Sinema 5\Sinema\Sinema\bin\Debug\Sinema.exe
+C:\Users\omerb\Downloads\Sinema 5\Sinema\Sinema\bin\Debug\Sinema.pdb
+C:\Users\omerb\Downloads\Sinema 5\Sinema\Sinema\obj\Debug\Sinema.csprojResolveAssemblyReference.cache
+C:\Users\omerb\Downloads\Sinema 5\Sinema\Sinema\obj\Debug\Sinema.AnaMenu.resources
+C:\Users\omerb\Downloads\Sinema 5\Sinema\Sinema\obj\Debug\Sinema.Login.resources
+C:\Users\omerb\Downloads\Sinema 5\Sinema\Sinema\obj\Debug\Sinema.Guncelleme.resources
+C:\Users\omerb\Downloads\Sinema 5\Sinema\Sinema\obj\Debug\Sinema.Properties.Resources.resources
+C:\Users\omerb\Downloads\Sinema 5\Sinema\Sinema\obj\Debug\Sinema.Satıs.resources
+C:\Users\omerb\Downloads\Sinema 5\Sinema\Sinema\obj\Debug\Sinema.csproj.GenerateResource.Cache
+C:\Users\omerb\Downloads\Sinema 5\Sinema\Sinema\obj\Debug\Sinema.MusterBiletEkrani.resources
